@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #FADADD; /* pastel pink background */
+  color: #333333;      /* dark grey text */
+}
+
+header {
+  background: #AEC6CF; /* pastel blue header */
+  padding: 1rem;
+  text-align: center;
+  color: #333333;
+}
+
+h1 {
+  color: #333333;
+}
+
+button {
+  background-color: #AEC6CF; /* pastel blue buttons */
+  border: none;
+  padding: 10px 20px;
+  color: #333333;
+  font-weight: bold;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #FADADD; /* pastel pink hover */
+}
+
+.card {
+  background: #FFFFFF;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  margin: 1rem;
+  padding: 1rem;
+}
